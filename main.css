@@ -1,0 +1,24 @@
+div{
+    margin-top: 5rem;
+}
+h2{
+    font-family :Impact;
+    font-size: 80px;
+    font-weight:700;
+}
+p{
+    font-family :"Times New Roman";
+    font-size:35px;
+    padding-top: 3rem;
+}
+.btn{
+    border:1px solid black;
+    border-radius: 0;
+}
+.btn-primary{
+    --bs-btn-bg:blue;
+    --bs-btn-hover-bg:#008000;
+    --bs-btn-hover-border-color:black;
+    padding: 1.5rem 5.5rem;
+    text-align: center;
+}
